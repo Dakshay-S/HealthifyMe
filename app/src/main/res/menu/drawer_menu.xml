@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+    <item
+        android:id="@+id/viewHospital"
+        android:icon="@drawable/ic_hospital"
+        android:title="Nearby Hospitals" />
+
+    <item
+        android:id="@+id/stepsCounter"
+        android:icon="@drawable/ic_walk"
+        android:title="Steps Counter" />
+
+
+
+
+    <item android:title="Monthly Exercise Plan">
+        <menu>
+            <item
+                android:id="@+id/abs"
+                android:title="Abs Exercise" />
+            <item
+                android:id="@+id/leg"
+                android:title="Leg Exercise" />
+            <item
+                android:id="@+id/arm"
+                android:title="Arm Exercise" />
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HealthifyMe</string>
+    <string name="title_home">Home</string>
+    <string name="title_add">Add</string>
+    <string name="title_view">View</string>
+    <string name="title_activity_nav_add">NavAddActivity</string>
+    <string name="title_activity_nav_view">NavViewActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_temp">tempActivity</string>
+
+    <string name="title_activity_view_sleepduration">ViewSleepduration</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_d_emo_maps">Map</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
